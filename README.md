@@ -41,7 +41,8 @@ Referencias Utilizadas nessa Pesquisa aqui:
 2-https://cms-opendata-workshop.github.io/workshop2024-lesson-docker/aio.html
 
 3-https://www.alura.com.br/artigos/desvendando-o-dockerfile?srsltid=AfmBOorK7PMR9taSoqnYS_v-roouYmIx8itTGuUS90uWWs7-N-Z9ZI8I
-https://docs.docker.com/build/concepts/dockerfile/
+
+  https://docs.docker.com/build/concepts/dockerfile/
 
 4-https://docs.docker.com/compose/
 
