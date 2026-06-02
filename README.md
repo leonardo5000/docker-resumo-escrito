@@ -35,6 +35,7 @@ permitindo que o aplicativo funcione como um todo "igual como os power rangers v
 Você pode acompanhar o status dos serviços e logs diretamente no terminal.
 
 Referencias Utilizadas nessa Pesquisa aqui:
+
 1-https://docs.docker.com/get-started/docker-overview/
 
 2-https://cms-opendata-workshop.github.io/workshop2024-lesson-docker/aio.html
