@@ -1,6 +1,7 @@
 # docker-resumo-escrito
 Nome: Leonardo Duarte de Souza (Musquitu)
 RA: 60000367
+
 1-Eu entendi que o docker é uma plataforma aberta para desenvolver, enviar e executar aplicações.
 o docker resolve o problema do "funciona na minha máquina" porque ão invés de apenas
 compartilhar o código-fonte e uma lista de dependências, o desenvolvedor empacota o ambiente inteiro
